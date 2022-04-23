@@ -1,0 +1,9 @@
+WELCOME TO THE EMD-C WIKI
+
+REQUIREMENTS:
+: AVR Compiler for cross compilation.
+: simullide for software for hardware circuits.
+: Visual studio code for compiling the code, git integration for source codfe management and doxygen extension to autofill comments in doxygen commands.
+: cppcheck for static analysis.
+: doxygen for generating documents.
+: to run cppcheck and doxygen commands fron terminal, find and add cppcheck.exe and doxygen locatiojns to PATH variable in windows.
